@@ -44,6 +44,7 @@ e.g.: `BBTT|-BT-` (8 ticks in 2 groups)
 *3+3+3+3*
 
 1. `T-B|-TT|B-T|T--`
+1. `B-B|-SS|-BB|-SS`
 
 ## 14 ticks
 
@@ -68,3 +69,4 @@ e.g.: `BBTT|-BT-` (8 ticks in 2 groups)
 1. `TTBT|STTT|SBTT|BTTT`
 1. `B-TT|BTTB|-TTB|T-TT`
     1. `B-TT|BTTB|-BTT|B-TT` (different ending)
+1. `BTTB|TTB-|TTTT|TTT-`
