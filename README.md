@@ -38,6 +38,9 @@ e.g.: `BBTT|-BT-` (8 ticks in 2 groups)
 1. `BBTT|BBT-`
 1. `BBSB|BSTS`
 1. `B--T|T-T-`
+1. `TT-B|B--T`
+1. `B-TT|T-B-`
+1. `TT-B|B-T-`
 
 ### 12 ticks
 
