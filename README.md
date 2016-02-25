@@ -1,6 +1,6 @@
 # Djembe rhythms
 
-Collection of djembe rhythms.
+Collection of useful rhythms for learning playing Djembe.
 
 ## Legend
 
@@ -30,7 +30,7 @@ e.g.: `BBTT|-BT-` (8 ticks in 2 groups)
 1. `BTTB|TTBT`
     1. `BTTB|TTBS` (slap at the end)
     1. `BTTB|TTSS` (2 slaps at the end)
-    1. `BTBT|TBTT` (shifted 2 ticks to right)
+1. `BTBT|TBTT` (same as previous, shifted 2 ticks to right)
 1. `B-TT|-BT-`
     1. `BBTT|-BT-`
 1. `B-TT|--S-`
@@ -41,6 +41,12 @@ e.g.: `BBTT|-BT-` (8 ticks in 2 groups)
 1. `TT-B|B--T`
 1. `B-TT|T-B-`
 1. `TT-B|B-T-`
+1. `-TT-|BB-T` (same as previous, shifted 1 tick to right)
+1. `B---|--TT`
+    1. `B-TT|B-SS` (dense, 2 slaps at the end)
+1. `TT--|TT--`
+1. `--TT|--TT` (same as previous, shifted 2 ticks to right)
+    1. `--TT|--S-`
 
 ### 12 ticks
 
@@ -73,3 +79,15 @@ e.g.: `BBTT|-BT-` (8 ticks in 2 groups)
 1. `B-TT|BTTB|-TTB|T-TT`
     1. `B-TT|BTTB|-BTT|B-TT` (different ending)
 1. `BTTB|TTB-|TTTT|TTT-`
+1. `T---|B-TT|--B-|--TT`
+1. `T--T|--T-|-T--|--TT`
+
+## Rhythm generator
+
+I've created a simple rhythm generator based on Markov Model.
+To use it, go to `generator` directory, open python and run:
+```py
+from generator import train, generate
+model = train(['BB--', 'BBAA', 'AACC'])
+model.generate(4)
+```
