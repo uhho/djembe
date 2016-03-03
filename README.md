@@ -19,7 +19,7 @@ e.g.: `BBTT|-BT-` (8 ticks in 2 groups)
 *3+3*
 
 1. `BTB|TSS`
-1. `BTB|SS`
+1. `BTT|BSS`
 
 ### 8 ticks
 
