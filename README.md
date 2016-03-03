@@ -28,8 +28,8 @@ e.g.: `BBTT|-BT-` (8 ticks in 2 groups)
 1. `B--T|B-T-`
 1. `T-BB|TTB-`
 1. `BTTB|TTBT`
-    1. `BTTB|TTBS` (slap at the end)
-    1. `BTTB|TTSS` (2 slaps at the end)
+    1. `BTTB|TBSS`
+    1. `BTTB|TTBS`
 1. `BTBT|TBTT` (same as previous, shifted 2 ticks to right)
 1. `B-TT|-BT-`
     1. `BBTT|-BT-`
@@ -45,8 +45,9 @@ e.g.: `BBTT|-BT-` (8 ticks in 2 groups)
 1. `B---|--TT`
     1. `B-TT|B-SS` (dense, 2 slaps at the end)
 1. `TT--|TT--`
-1. `--TT|--TT` (same as previous, shifted 2 ticks to right)
+    1. `--TT|--TT` (same as previous, shifted 2 ticks to right)
     1. `--TT|--S-`
+1. `BB-S|S-TT`
 
 ### 12 ticks
 
@@ -76,8 +77,7 @@ e.g.: `BBTT|-BT-` (8 ticks in 2 groups)
 1. `BTTB|TTTT|BTTB|TTSS`
 1. `BTTB|TTBT|TBTT|BTSS`
 1. `TTBT|STTT|SBTT|BTTT`
-1. `B-TT|BTTB|-TTB|T-TT`
-    1. `B-TT|BTTB|-BTT|B-TT` (different ending)
+1. `B-TT|BTTB|-BTT|B-TT`
 1. `BTTB|TTB-|TTTT|TTT-`
 1. `T---|B-TT|--B-|--TT`
 1. `T--T|--T-|-T--|--TT`
