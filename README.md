@@ -81,6 +81,13 @@ e.g.: `BBTT|-BT-` (8 ticks in 2 groups)
 1. `BTTB|TTB-|TTTT|TTT-`
 1. `T---|B-TT|--B-|--TT`
 1. `T--T|--T-|-T--|--TT`
+1. `B-TT|B-TT|B-TT|BT-T`
+
+### 32 ticks
+
+*4+4+4+4 4+4+4+4*
+
+1. `B---|S---|B--S|T---|B---|TTTT|T--T|T---`
 
 ## Rhythm generator
 
