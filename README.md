@@ -19,7 +19,7 @@ e.g.: `BBTT|-BT-` (8 ticks in 2 groups)
 *3+3*
 
 1. `BTB|TSS`
-1. `BTT|BSS`
+1. `BTT|BSS` :star:
 
 ### 8 ticks
 
@@ -27,9 +27,8 @@ e.g.: `BBTT|-BT-` (8 ticks in 2 groups)
 
 1. `B--T|B-T-`
 1. `T-BB|TTB-`
-1. `BTTB|TTBT`
+1. `BTTB|TTBT` :star:
     1. `BTTB|TBSS`
-    1. `BTTB|TTBS`
 1. `BTBT|TBTT` (same as previous, shifted 2 ticks to right)
 1. `B-TT|-BT-`
     1. `BBTT|-BT-`
@@ -37,7 +36,7 @@ e.g.: `BBTT|-BT-` (8 ticks in 2 groups)
 1. `BT-T|-T-T`
 1. `BBTT|BBT-`
 1. `BBSB|BSTS`
-1. `B--T|T-T-`
+1. `B--T|S-T-` :star:
 1. `TT-B|B--T`
 1. `B-TT|T-B-`
 1. `TT-B|B-T-`
@@ -78,17 +77,18 @@ e.g.: `BBTT|-BT-` (8 ticks in 2 groups)
 1. `BTTB|TTTT|BTTB|TTSS`
 1. `BTTB|TTBT|TBTT|BTSS`
 1. `TTBT|STTT|SBTT|BTTT`
-1. `B-TT|BTTB|-BTT|B-TT`
+1. `B-TT|BTTB|-BTT|B-TT` :star:
 1. `BTTB|TTB-|TTTT|TTT-`
 1. `T---|B-TT|--B-|--TT`
 1. `T--T|--T-|-T--|--TT`
 1. `B-TT|B-TT|B-TT|BT-T`
+1. `B--T|S---|S-S-|S---` :star:
 
 ### 32 ticks
 
 *4+4+4+4 4+4+4+4*
 
-1. `B---|S---|B--S|T---|B---|TTTT|T--T|T---`
+1. `B---|S---|B--S|T---|B---|TTTT|T--T|T---` :star:
 
 ## Rhythm generator
 
