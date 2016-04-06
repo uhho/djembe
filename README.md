@@ -4,13 +4,13 @@ Collection of useful rhythms for learning playing Djembe.
 
 ## Legend
 
-* `B` : bass (full hand)
-* `T` : tone (half hand)
-* `S` : slap (quarter hand)
-* `-` : pause
-* `|` : group separator
+* **B** : bass (full hand)
+* **T** : tone (half hand)
+* **S** : slap (quarter hand)
+* **-** : pause
+* **|** : group separator
 
-e.g.: `BBTT|-BT-` (8 ticks in 2 groups)
+e.g.: **BBTT|-BT-** (8 ticks in 2 groups)
 
 ## Rhythms
 
@@ -55,6 +55,7 @@ e.g.: `BBTT|-BT-` (8 ticks in 2 groups)
 1. `T-B|-TT|B-T|T--`
 1. `B-B|-SS|-BB|-SS`
 1. `B-T|B-T|B-T|SSS`
+1. `B-B|-BT|TB-|B--` :star:
 
 ## 14 ticks
 
