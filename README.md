@@ -26,9 +26,11 @@ e.g.: **BBTT|-BT-** (8 ticks in 2 groups)
 *4+4*
 
 1. `B--T|B-T-`
+    1. `B--T|S-T-`
 1. `T-BB|TTB-`
 1. `BTTB|TTBT` :star:
     1. `BTTB|TBSS`
+    1. `BTTB|TTTT`
 1. `BTBT|TBTT` (same as previous, shifted 2 ticks to right)
 1. `B-TT|-BT-`
     1. `BBTT|-BT-`
@@ -36,7 +38,6 @@ e.g.: **BBTT|-BT-** (8 ticks in 2 groups)
 1. `BT-T|-T-T`
 1. `BBTT|BBT-`
 1. `BBSB|BSTS`
-1. `B--T|S-T-` :star:
 1. `TT-B|B--T`
 1. `B-TT|T-B-`
 1. `TT-B|B-T-`
@@ -73,9 +74,8 @@ e.g.: **BBTT|-BT-** (8 ticks in 2 groups)
 1. `BBTT|BTB-|TB-T|BBT-`
 1. `BB-T|-TTT|BB-T|-TT-`
 1. `B-T-|T-T-|BT-T|-T-T`
-1. `B--T|S--B|-T-T|S---`
+1. `B--T|S--B|-T-T|S---` :star:
 1. `BBTT|STTB|TTBS|STTB`
-1. `BTTB|TTTT|BTTB|TTSS`
 1. `BTTB|TTBT|TBTT|BTSS`
 1. `TTBT|STTT|SBTT|BTTT`
 1. `B-TT|BTTB|-BTT|B-TT` :star:
@@ -85,7 +85,7 @@ e.g.: **BBTT|-BT-** (8 ticks in 2 groups)
 1. `B-TT|B-TT|B-TT|BT-T`
 1. `B--T|S---|S-S-|S---`
 1. `B---|T---|B--T|--T-` :star:
- 
+
 ### 32 ticks
 
 *4+4+4+4 4+4+4+4*
