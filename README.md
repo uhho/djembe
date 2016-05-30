@@ -14,12 +14,19 @@ e.g.: **BBTT|-BT-** (8 ticks in 2 groups)
 
 ## Rhythms
 
+### Intro
+
+1. `T-T-|TT-T|-T-T|T-T-`
+    1. `T-T-|TT-T|-T-T|T-TT`
+1. `TT-T|-T-T|T-T-|T-TT`
+
 ### 6 ticks
 
 *3+3*
 
 1. `BTB|TSS`
 1. `BTT|BSS` :star:
+1. `B-B|-TT` *Palo*
 
 ### 8 ticks
 
@@ -30,7 +37,7 @@ e.g.: **BBTT|-BT-** (8 ticks in 2 groups)
 1. `T-BB|TTB-`
 1. `BTTB|TTBT` :star:
     1. `BTTB|TBSS`
-    1. `BTTB|TTTT`
+    1. `BTTB|BTSS`
 1. `BTBT|TBTT` (same as previous, shifted 2 ticks to right)
 1. `B-TT|-BT-`
     1. `BBTT|-BT-`
@@ -58,6 +65,7 @@ e.g.: **BBTT|-BT-** (8 ticks in 2 groups)
 1. `B-B|-SS|-BB|-SS`
 1. `B-T|B-T|B-T|SSS`
 1. `B-B|-BT|TB-|B--` :star:
+1. `B-T|TB-|B-B|T--` *Abaqua*
 
 ## 14 ticks
 
