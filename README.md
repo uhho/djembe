@@ -10,6 +10,11 @@ Collection of useful rhythms for learning playing Djembe.
 * **-** : pause
 * **|** : group separator
 
+Additionally, I'm using special characters for tremolo
+
+* **D** : **D**ouble tone
+* **R** : T**r**iple tone
+
 e.g.: **BBTT|-BT-** (8 ticks in 2 groups)
 
 ## Rhythms
@@ -56,6 +61,10 @@ e.g.: **BBTT|-BT-** (8 ticks in 2 groups)
     1. `--TT|--S-`
 1. `BB-S|S-TT`
 1. `B--T|B-TT`
+1. `T--S|T---` (raga)
+1. `TT-T|T--T` (Burkina Faso)
+    1. `TT-T|T-T-`
+1. `T-TT|T-T-`
 
 ### 12 ticks
 
@@ -66,6 +75,7 @@ e.g.: **BBTT|-BT-** (8 ticks in 2 groups)
 1. `B-T|B-T|B-T|SSS`
 1. `B-B|-BT|TB-|B--` :star:
 1. `B-T|TB-|B-B|T--` *Abaqua*
+1. `B---|T--T|T---`
 
 ## 14 ticks
 
@@ -91,8 +101,10 @@ e.g.: **BBTT|-BT-** (8 ticks in 2 groups)
 1. `T---|B-TT|--B-|--TT`
 1. `T--T|--T-|-T--|--TT`
 1. `B-TT|B-TT|B-TT|BT-T`
-1. `B--T|S---|S-S-|S---`
 1. `B---|T---|B--T|--T-` :star:
+1. `B--T|S---|S-S-|S---` :star:
+1. `B---|T---|T--T|--TT`
+1. `T-T-|TTTT|T-T-|B-T-`
 
 ### 32 ticks
 
@@ -108,4 +120,20 @@ To use it, go to `generator` directory, open python and run:
 from generator import train, generate
 model = train(['BB--', 'BBAA', 'AACC'])
 model.generate(4)
+```
+
+## Sample solos
+
+```
+TT-T|-T-T|T-T-|T-SS
+
+B--T|S--B|-T-T|S---
+TT-T|S---|TT-T|S---
+--SS|--SS|--SS|--SS
+S-DD|S-DD|S-DD|S-DD
+-TTT|-TTT|-TTT|-TTT
+B-TT|B-TT|B-TT|B-TT
+SS-T|T--T|SS-T|T--T
+
+TT-T|-T-T|T-T-|T---
 ```
