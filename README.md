@@ -10,10 +10,12 @@ Collection of useful rhythms for learning playing Djembe.
 * **-** : pause
 * **|** : group separator
 
-Additionally, I'm using special characters for tremolo
+I'm using following symbols for additional sounds / combinaions
 
-* **D** : **D**ouble tone
-* **R** : T**r**iple tone
+* **2** : Double tone (double tremolo)
+* **3** : Triple tone (triple tremolo)
+* **R** : "Broken" tone or slap played using both hands at the same time but with small lag
+
 
 e.g.: **BBTT|-BT-** (8 ticks in 2 groups)
 
@@ -24,6 +26,7 @@ e.g.: **BBTT|-BT-** (8 ticks in 2 groups)
 1. `T-T-|TT-T|-T-T|T-T-`
     1. `T-T-|TT-T|-T-T|T-TT`
 1. `TT-T|-T-T|T-T-|T-TT`
+1. `R-T-|T-2T|TTTT|TT--` (Lamban: break)
 
 ### 6 ticks
 
@@ -105,6 +108,7 @@ e.g.: **BBTT|-BT-** (8 ticks in 2 groups)
 1. `B--T|S---|S-S-|S---` :star:
 1. `B---|T---|T--T|--TT`
 1. `T-T-|TTTT|T-T-|B-T-`
+1. `B---|TT--|B-TT|TT--` (Lamban)
 
 ### 32 ticks
 
@@ -125,15 +129,15 @@ model.generate(4)
 ## Sample solos
 
 ```
-TT-T|-T-T|T-T-|T-SS
+TT-T|-T-T|T-T-|T-TT
 
 B--T|S--B|-T-T|S---
 TT-T|S---|TT-T|S---
 --SS|--SS|--SS|--SS
-S-DD|S-DD|S-DD|S-DD
+S-22|S-22|S-22|S-22
 -TTT|-TTT|-TTT|-TTT
 B-TT|B-TT|B-TT|B-TT
-SS-T|T--T|SS-T|T--T
+22-T|T--T|22-T|T--T
 
 TT-T|-T-T|T-T-|T---
 ```
