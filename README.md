@@ -68,6 +68,7 @@ e.g.: **BBTT|-BT-** (8 ticks in 2 groups)
 1. `TT-T|T--T` (Burkina Faso)
     1. `TT-T|T-T-`
 1. `T-TT|T-T-`
+1. `B-B-|TTTT`
 
 ### 12 ticks
 
@@ -109,7 +110,8 @@ e.g.: **BBTT|-BT-** (8 ticks in 2 groups)
 1. `B---|T---|T--T|--TT`
 1. `T-T-|TTTT|T-T-|B-T-`
 1. `B---|TT--|B-TT|TT--` (Lamban)
-
+1. `T-T-|T-T-|BB-B|B-B-` :star:
+ 
 ### 32 ticks
 
 *4+4+4+4 4+4+4+4*
