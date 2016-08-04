@@ -69,6 +69,7 @@ e.g.: **BBTT|-BT-** (8 ticks in 2 groups)
     1. `TT-T|T-T-`
 1. `T-TT|T-T-`
 1. `B-B-|TTTT`
+1. `TTTT|--SS` :star:
 
 ### 12 ticks
 
