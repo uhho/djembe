@@ -113,7 +113,8 @@ e.g.: **BBTT|-BT-** (8 ticks in 2 groups)
 1. `B---|TT--|B-TT|TT--` (Lamban)
 1. `T-T-|T-T-|BB-B|B-B-` :star:
 1. `TTTT|B-S-|B-SS|B-S-`
- 
+1. `B-T-|TTTS|-S-T|T-BB` :star:
+
 ### 32 ticks
 
 *4+4+4+4 4+4+4+4*
