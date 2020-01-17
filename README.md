@@ -104,10 +104,11 @@ e.g.: **BBTT|-BT-** (8 ticks in 2 groups)
 1. `BTTB|TTBT|TBTT|BTSS`
 1. `TTBT|STTT|SBTT|BTTT`
 1. `B-TT|BTTB|-BTT|B-TT` :star:
-1. `BTTB|TTB-|TTTT|TTT-`
-1. `T---|B-TT|--B-|--TT`
 1. `T--T|--T-|-T--|--TT`
     1. `B--B|--B-|-T--|SSSS` :star:
+    1. `BTTB|TTB-|TTTT|TTT-`
+    1. `BTTB|TTBT|TTTT|SSST`
+1. `T---|B-TT|--B-|--TT`
 1. `B-TT|B-TT|B-TT|BT-T`
 1. `B---|T---|B--T|--T-` :star:
 1. `B--T|S---|S-S-|S---` :star:
